@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15732a06-7ebf-41d4-ac42-b5ad4c160c67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>as</find>
+      <find>.matches</find>
+      <find>let</find>
+      <find>to</find>
+      <find>Ingredient(</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectId" id="1YA3Ojv4nw0Lza6NxSVR1hcBJ73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/classes" />
+      <recent name="$PROJECT_DIR$/src/functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/LateOrLazy" />
+      <recent name="$PROJECT_DIR$/src/variables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.classes.enumClasses.EnumClassesKt">
+    <configuration name="Strings.ValueComparisonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFundamentals_Chapter02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Strings.ValueComparisonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.enumClasses.EnumClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFundamentals_Chapter02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="classes.enumClasses.EnumClassesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.inner.InnerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFundamentals_Chapter02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="classes.inner.InnerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.nestedAndInner.NestedAndInnerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFundamentals_Chapter02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="classes.nestedAndInner.NestedAndInnerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance.CarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFundamentals_Chapter02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.CarKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.classes.enumClasses.EnumClassesKt" />
+        <item itemvalue="Kotlin.classes.inner.InnerKt" />
+        <item itemvalue="Kotlin.classes.nestedAndInner.NestedAndInnerKt" />
+        <item itemvalue="Kotlin.Strings.ValueComparisonKt" />
+        <item itemvalue="Kotlin.inheritance.CarKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15732a06-7ebf-41d4-ac42-b5ad4c160c67" name="Default Changelist" comment="" />
+      <created>1562621054566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562621054566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1378" height="361" key="GridCell.Tab.0.bottom" timestamp="1586602430314">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1378" height="361" key="GridCell.Tab.0.bottom/-196.-1057.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586602430314" />
+    <state width="1378" height="361" key="GridCell.Tab.0.center" timestamp="1586602430312">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1378" height="361" key="GridCell.Tab.0.center/-196.-1057.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586602430312" />
+    <state width="1378" height="361" key="GridCell.Tab.0.left" timestamp="1586602430311">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1378" height="361" key="GridCell.Tab.0.left/-196.-1057.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586602430311" />
+    <state width="1378" height="361" key="GridCell.Tab.0.right" timestamp="1586602430313">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1378" height="361" key="GridCell.Tab.0.right/-196.-1057.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586602430313" />
+    <state x="221" y="61" key="SettingsEditor" timestamp="1582371625861">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="221" y="61" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1582371625861" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

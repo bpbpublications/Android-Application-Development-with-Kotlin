@@ -1,0 +1,1 @@
+This is sample text to demonstrate file handlingFile opened in append mode and data will be written further

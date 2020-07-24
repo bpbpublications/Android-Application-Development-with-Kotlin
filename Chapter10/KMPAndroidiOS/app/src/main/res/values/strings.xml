@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KMPAndroidiOS</string>
+    <string name="currency_converter">Currency converter</string>
+    <string name="to">To</string>
+    <string name="gbp">GBP</string>
+    <string name="conversion_result">%1$s INR</string>
+    <string name="conversion_fee">Conversion rate 1 GBP = %1$f INR\nConversion fee for %2$s is %3$d</string>
+</resources>
